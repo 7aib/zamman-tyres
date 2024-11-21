@@ -198,8 +198,8 @@ nav .menu-btn,
     position: relative;
 }
 .a-b-img{
-    width: 100%;
-    height: 60%;
+    width: 90%;
+    height: 70%;
 
 }
 .a-b-img img{
@@ -254,7 +254,7 @@ nav .menu-btn,
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/offer.png);
+    background-image: url(images/offer.jpg);
     text-align: center;
 }
 

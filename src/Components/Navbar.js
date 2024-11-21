@@ -26,10 +26,10 @@ function Navbar(){
                 <span className="nav-icon"></span>
             </label>
             <ul className="menu">
-                <li><Link to="#">Header</Link></li>
-                <li><Link to="#">Features</Link></li>
-                <li><Link to="#">Offer</Link></li>
-                <li><Link to="#">About</Link></li>
+                <li><Link to="main" smooth={true} duration={1000}>Header</Link></li>
+                <li><Link to="features" smooth={true} duration={1000}>Features</Link></li>
+                <li><Link to="offer" smooth={true} duration={1000}>Offer</Link></li>
+                <li><Link to="about" smooth={true} duration={1000}>About</Link></li>
                 <li><Link to="#">Contact</Link></li>
             </ul>
         </nav>
